@@ -1,0 +1,11 @@
+{
+  "aws": {
+    "name": "ec2"
+  },
+  "azure": {
+    "name": "VM"
+  },
+  "gcp": {
+    "name": "compute engine"
+  }
+}
